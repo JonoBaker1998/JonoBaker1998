@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Baker.
-I am a Masters Student studying a joint programme in Quantitative Finance at the University of Zurich and ETH Zurich. 
+I am a Masters Student in Quantitative Finance.
 I am interested in developing solutions to problems faced in the financial markets using machine learning techniques.
 I'm currently coding in Python and MatLab, and I am working on projects regarding Deep Hedging of options.
 
